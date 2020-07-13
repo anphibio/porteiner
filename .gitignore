@@ -6,3 +6,4 @@ portainer.key
 portainer.pub
 tls
 .txt
+.gitignore
